@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="create_title">ADDING A TASK:  </string>
+    <string name="task_title_statement">Task title</string>
+    <string name="title_hint">Title</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="add">ADD</string>
+    <string name="delete">Delete</string>
+    <string name="editing_a_task">Editing a task:</string>
+    <string name="edit">edit</string>
+    <string name="edit_task_title">Edit Task Title</string>
+
+    <string name="preference_file_key">preference_file_key</string>
+</resources>
